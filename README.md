@@ -1,5 +1,5 @@
 
-> Open this page at [https://j754.github.io/bootooth/](https://j754.github.io/bootooth/)
+> Open this page at [https://j754.github.io/bootloadtoothOld/](https://j754.github.io/bootloadtoothOld/)
 >This is an old version
 
 ## Use as Extension
@@ -11,7 +11,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/j754/bootloadtoothOld** and import
 
-## Edit this project ![Build status badge](https://github.com/j754/bootooth/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/j754/bootloadtooth/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
