@@ -1,5 +1,6 @@
 
 > Open this page at [https://j754.github.io/bootooth/](https://j754.github.io/bootooth/)
+>This is an old version
 
 ## Use as Extension
 
@@ -8,7 +9,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/j754/bootooth** and import
+* search for **https://github.com/j754/bootloadtoothOld** and import
 
 ## Edit this project ![Build status badge](https://github.com/j754/bootooth/workflows/MakeCode/badge.svg)
 
@@ -16,7 +17,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/j754/bootooth** and click import
+* paste **https://github.com/j754/booloadtoothOLD** and click import
 
 ## Blocks preview
 
